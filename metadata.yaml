@@ -1,0 +1,30 @@
+_repo: Histoire-de-l--migration-pendant-la-R-volution-Fran-aiseTome-2-Du-18-fructidor-au-18-brumaire_30923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daudet, Ernest
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '24919'
+    url: http://www.gutenberg.org/2009/agents/24919
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2010-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30923'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Refugees'
+- !lcc 'DC'
+title: 'Histoire de l''Émigration pendant la Révolution Française
+
+  Tome 2-Du 18 fructidor au 18 brumaire'
+url: http://www.gutenberg.org/ebooks/30923
