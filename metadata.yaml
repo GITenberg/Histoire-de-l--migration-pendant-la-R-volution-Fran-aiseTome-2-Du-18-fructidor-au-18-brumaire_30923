@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '24919'
     url: http://www.gutenberg.org/2009/agents/24919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30923#Histoire-de-l--migration-pendant-la-R-volution-Fran-aiseTome-2-Du-18-fructidor-au-18-brumaire
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2010-01-10'
 gutenberg_type: Text
